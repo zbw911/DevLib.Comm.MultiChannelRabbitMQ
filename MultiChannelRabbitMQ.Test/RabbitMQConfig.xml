@@ -4,12 +4,12 @@
  
   <!--【服务保护】-日志MQ配置-->
   <!--<MQ_Uri>amqp://127.0.0.1:5672</MQ_Uri>
-  <MQ_UserName>autohome</MQ_UserName>
-  <MQ_Pwd>123456</MQ_Pwd>
+  <MQ_UserName>sa</MQ_UserName>
+  <MQ_Pwd>b</MQ_Pwd>
   <MQ_VirtualHost>/</MQ_VirtualHost>-->
   <MQ_Uri>amqp://10.23.3.187:5672</MQ_Uri>
-  <MQ_UserName>autohome</MQ_UserName>
-  <MQ_Pwd>S7!CUy3lZ5;_[K</MQ_Pwd>
+  <MQ_UserName>sa</MQ_UserName>
+  <MQ_Pwd>sa</MQ_Pwd>
   <MQ_VirtualHost>/</MQ_VirtualHost>
 
   <MQ_OneConnectionForChannelSize>50</MQ_OneConnectionForChannelSize>

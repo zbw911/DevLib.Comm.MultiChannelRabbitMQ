@@ -1,10 +1,7 @@
-﻿using RabbitMQ.Client;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System;
+using RabbitMQ.Client;
 
-namespace APP.API.Async.Common.Safeguard.RabbitMQ
+namespace Dev.Common.MultiChannelRabbitMQ
 {
     #region RabbitMQConnection
     /// <summary>

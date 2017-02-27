@@ -1,15 +1,13 @@
-﻿using RabbitMQ.Client;
+﻿using System;
+using System.IO;
+using System.Runtime.Serialization.Json;
+using System.Text;
+using RabbitMQ.Client;
 using RabbitMQ.Client.Content;
 using RabbitMQ.Client.Events;
 using RabbitMQ.Client.Impl;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Runtime.Serialization.Json;
-using System.Text;
 
-namespace APP.API.Async.Common.Safeguard.RabbitMQ
+namespace Dev.Common.MultiChannelRabbitMQ
 {
     /// <summary>
     /// RabbitMQ操作类

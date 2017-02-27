@@ -7,8 +7,8 @@
     <ProjectGuid>{E486A3F9-9838-46DE-B445-485229053E8B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MultiChannelRabbitMQ</RootNamespace>
-    <AssemblyName>MultiChannelRabbitMQ</AssemblyName>
+    <RootNamespace>Dev.Common.MultiChannelRabbitMQ</RootNamespace>
+    <AssemblyName>Dev.Common.MultiChannelRabbitMQ</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Concurrent;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-namespace APP.API.Async.Common.Safeguard.RabbitMQ
+namespace Dev.Common.MultiChannelRabbitMQ
 {
     public class RabbitMQClient
     {
